@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.MPZmatrix.repor" name="[COLOR gold][B]MPZ MATRIX REPO[/B][/COLOR]" version="1.0" provider-name="MPZ matrix">
+    <extension point="xbmc.addon.repository" name="MPZmatrix">
+        <info>https://raw.githubusercontent.com/MagoPoza/MPZmatrix/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/MagoPoza/MPZmatrix/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/MagoPoza/MPZmatrix/master/Repositorio/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositorio wizard MPZ matrix</summary>
+        <description></description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>
